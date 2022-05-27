@@ -1,5 +1,5 @@
 
-![Profile views](https://gpvc.arturio.dev/wilkensoncode) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wilkensoncode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/wilkenson-hilarion//) ![Profile views](https://gpvc.arturio.dev/wilkensoncode) 
 
 # Hi there 👋, my name is Wilkenson
 ####  
@@ -18,15 +18,11 @@ Currently pursuing a BS in Computer Science | did a coding bootcamp (HTML5, CSS3
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a> 
-</a>
- 
-## Reach out:
- 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wilkensoncode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/wilkenson-hilarion//)
+</a> 
+
  
 ## Github stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilkensoncode&show_icons=true&count_private=true)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wilkensoncode)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilkensoncode&show_icons=true&count_private=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wilkensoncode)  
 
  
