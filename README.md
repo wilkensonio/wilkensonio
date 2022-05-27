@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wilkenson</h1>
-<h3 align="center">Software Engineer | jr Web Developer</h3>
 
-- 💬 Ask me about **Frontend and backend dev seeking an entry-level opportunity, I'm technically inquisitive, a problem solver and want to be challenged, become a better frontend developer in HTML CSS, javaScript, React and a backend Java developer**
+ <p>BS Computer Science in progress | Jr Web Developer (HTML5, CSS3, React).Other courses in mySql, core Java</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
