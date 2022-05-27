@@ -8,7 +8,7 @@ Currently pursuing a BS in Computer Science | did a coding bootcamp (HTML5, CSS3
  ###
  
 ### Github stats
- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wilkensoncode) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilkensoncode&show_icons=true&count_private=true) 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wilkensoncode&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilkensoncode&show_icons=true&count_private=true&theme=react) 
   
 
 ### Let' connect
