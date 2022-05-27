@@ -8,7 +8,7 @@ Currently pursuing a BS in Computer Science | did a coding bootcamp (HTML5, CSS3
  ###
  
 ### Github stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilkensoncode&show_icons=true&count_private=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wilkensoncode) 
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wilkensoncode) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilkensoncode&show_icons=true&count_private=true) 
 
 ### Skills:
 
