@@ -1,5 +1,5 @@
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wilkensoncode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/wilkenson-hilarion//)     ![Profile views](https://gpvc.arturio.dev/wilkensoncode) 
+![Profile views](https://gpvc.arturio.dev/wilkensoncode) 
 
 ## Hi there 👋, my name is Wilkenson
 ####  
@@ -9,6 +9,9 @@ Currently pursuing a BS in Computer Science | did a coding bootcamp (HTML5, CSS3
  
 ### Github stats
  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wilkensoncode) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilkensoncode&show_icons=true&count_private=true) 
+
+### Let' connect
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wilkensoncode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/wilkenson-hilarion//)
 
 ### Skills:
 
