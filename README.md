@@ -9,7 +9,7 @@ Currently pursuing a BS in Computer Science | did a coding bootcamp (HTML5, CSS3
  ### 
  ### Examples of work
  
- <a href="https://ezcomm.netlify.app/" target="_blank"> <img src="ezgif.com-gif-maker.gif" width="150" /> </a>
+ <a href="[https://ezcomm.netlify.app/](https://github.com/wilkensoncode/commerce)" target="_blank"> <img src="ezgif.com-gif-maker.gif" width="150" /> </a>
   
 ### Github stats
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wilkensoncode&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilkensoncode&show_icons=true&count_private=true&theme=react) 
