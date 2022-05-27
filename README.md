@@ -9,7 +9,7 @@ Currently pursuing a BS in Computer Science | did a coding bootcamp (HTML5, CSS3
  ### 
  
  ### Examples of work
-  [<img src='ezgif.com-gif-maker.gif' width='150' alt='sample ecommerce' target='_blank' />](https://github.com/wilkensoncode/commerce) 
+  [<img src='ezgif.com-gif-maker.gif' width='150' alt='sample ecommerce'/>](https://github.com/wilkensoncode/commerce) 
   
 ### Github stats
 
