@@ -6,6 +6,8 @@
 
 Currently pursuing a BS in Computer Science | did a coding bootcamp (HTML5, CSS3, React).Other courses in mySql, core Java, I'm technically inquisitive, looking for an opportunity to be challenged in HTML, CSS, javaScript, React and java
   
+### Github stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilkensoncode&show_icons=true&count_private=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wilkensoncode) 
 
 ### Skills:
 
@@ -21,8 +23,6 @@ Currently pursuing a BS in Computer Science | did a coding bootcamp (HTML5, CSS3
 </a> 
 
  
-### Github stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilkensoncode&show_icons=true&count_private=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wilkensoncode)  
+ 
 
  
