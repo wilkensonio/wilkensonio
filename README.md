@@ -11,7 +11,7 @@ Currently pursuing a BS in Computer Science | did a coding bootcamp (HTML5, CSS3
  
  ### Examples of work
  
-  <a href="https://github.com/wilkensoncode/commerce"> <img src="https://github.com/wilkensoncode/wilkensoncode/commit/b5d6eb92d5af497848b9e1214cfa0c887b98b0c4#diff-043db5158ae71d0f38d2941136a56da1fab3183f4ae2cdb300c9c231f0c39e69" /> </a>
+  <a href="https://github.com/wilkensoncode/commerce"> <img src="https://github.com/wilkensoncode/wilkensoncode/commit/b5d6eb92d5af497848b9e1214cfa0c887b98b0c4" /> </a>
   
 
   
