@@ -11,7 +11,11 @@ Currently pursuing a BS in Computer Science | did a coding bootcamp (HTML5, CSS3
  
  ### Examples of work
  
-  <a href="https://github.com/wilkensoncode/commerce"> <img src="ezgif.com-gif-maker.gif" /> </a>
+ 
+<p>
+ <a href="https://github.com/wilkensoncode/commerce">👾ViewCode</a> | <a href="https://ezcomm.netlify.app/" target="_blank">👁Live View</a>
+</p>
+ <img src="ezgif.com-gif-maker.gif" width="250"/>
   
 
   
