@@ -3,7 +3,7 @@
 
 <!-- ![ ](https://media-exp1.licdn.com/dms/image/C5616AQHDEcJF93frpA/profile-displaybackgroundimage-shrink_200_800/0/1653493876729?e=1658966400&v=beta&t=cVe49TDpLYaJ1nG_OkzCg8AlwEncHvQl0G-QQn0bjA8)
 -->
- I'm Wilkenson, currently pursuing a BS in Computer Science | did a coding bootcamp (HTML5, CSS3, React).Other courses in mySql, core Java, I'm technically inquisitive, looking for an opportunity to be challenged in HTML, CSS, javaScript, React and java  
+Currently pursuing a BS in Computer Science | did a coding bootcamp (HTML5, CSS3, React).Other courses in mySql, core Java, I'm technically inquisitive, looking for an opportunity to be challenged in HTML, CSS, javaScript, React and java  
 
 Skills:
 <p align="left">
