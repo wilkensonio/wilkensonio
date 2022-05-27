@@ -1,7 +1,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/wilkensoncode) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Currently+working+on+some+projects;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F746A1&lines=Currently+working+on+a+project;Posting+soon+)](https://git.io/typing-svg)
 
 ## Hi there 👋, I'm Wilkenson
 ####  
