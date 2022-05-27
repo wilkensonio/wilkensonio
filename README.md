@@ -7,15 +7,18 @@
 
 Currently pursuing a BS in Computer Science | did a coding bootcamp (HTML5, CSS3, React).Other courses in mySql, core Java, I'm technically inquisitive, looking for an opportunity to be challenged in HTML, CSS, javaScript, React and java
  ### 
+ 
  ### Examples of work
  
  <a href="[https://ezcomm.netlify.app/](https://github.com/wilkensoncode/commerce)" target="_blank"> <img src="ezgif.com-gif-maker.gif" width="150" /> </a>
   
 ### Github stats
+
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wilkensoncode&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilkensoncode&show_icons=true&count_private=true&theme=react) 
   
 
 ### Let' connect
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wilkensoncode)  [<img src='https://www.svgrepo.com/show/138936/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wilkenson-hilarion//)
 
 ### Skills:
