@@ -1,6 +1,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/wilkensoncode) 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Currently+working+on+some+projects;)](https://git.io/typing-svg)
 ## Hi there 👋, I'm Wilkenson
 ####  
 
@@ -12,7 +13,7 @@ Currently pursuing a BS in Computer Science | did a coding bootcamp (HTML5, CSS3
   
 
 ### Let' connect
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wilkensoncode)  [<img src='https://www.svgrepo.com/show/138936/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/wilkenson-hilarion//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wilkensoncode)  [<img src='https://www.svgrepo.com/show/138936/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wilkenson-hilarion//)
 
 ### Skills:
 
