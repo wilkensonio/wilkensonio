@@ -12,9 +12,9 @@
  ### Examples of work
  
 <p>
- <a href="https://github.com/wilkensoncode/commerce">👾ViewCode</a> | <a href="https://ezcomm.netlify.app/" target="_blank">👁Live View</a>
+ <a href="https://github.com/wilkensoncode/commerce">👾<small>ViewCode</small></a> | <a href="https://ezcomm.netlify.app/" target="_blank">👁<small>LiveView</view></a>
 </p>
- <img src="ezgif.com-gif-maker.gif" width="250"/>
+ <img src="ezgif.com-gif-maker.gif" width="200"/>
   
   
 ### Github stats
