@@ -6,7 +6,7 @@
 ## Hi there 👋, I'm Wilkenson
 ####  
 
- I'm technically inquisitive, currently pursuing a BS in Computer Science | did a coding bootcamp (HTML5, CSS3, React).Other courses in mySql, Java ...  
+ technically inquisitive, currently pursuing a BS in Computer Science | did a coding bootcamp (HTML5, CSS3, React).Other courses in mySql, Java ...  
  ### 
  
  ### Examples of work
