@@ -5,7 +5,7 @@
  
  <img src='https://github.com/wilkensoncode/wilkensoncode/blob/a676078d005544d9c1c9e56604d945b1f3b524f6/linkedbannr.gif'/>
 
-## Hi there 👋, I'm Wilkenson, technically inquisitive, looking to contrubute and talk tech
+## Hi there 👋, I'm Wilkenson, 👨🏾‍💻technically inquisitive, looking to contrubute and talk tech 😁
 ####   
  
  ### Examples of work
