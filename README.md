@@ -1,7 +1,5 @@
 
-![Profile views](https://gpvc.arturio.dev/wilkensoncode) 
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F746A1&lines=Software+engineer👨🏾‍💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F746A1&lines=Software+engineer👨🏾‍💻;)](https://git.io/typing-svg)
  
  <img src='https://github.com/wilkensoncode/wilkensoncode/blob/main/linkedbannrr.png'/>
 
@@ -60,6 +58,8 @@
 </a> 
 
  
+ 
+ ![Profile views](https://gpvc.arturio.dev/wilkensoncode) 
  
 
  
