@@ -3,7 +3,8 @@
  
  <img src='https://github.com/wilkensoncode/wilkensoncode/blob/main/linkedbannrr.png'/>
 
-## Hi there 👋, I'm Wilkenson, < 👨🏾‍💻 let's connect & build stuffs 😁 />
+### Hi there 👋, I'm Wilkenson, 
+##### < 👨🏾‍💻 let's connect & build stuffs 😁 />
 
 
 🏅Coding bootcamp graduate
