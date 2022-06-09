@@ -24,8 +24,11 @@
  
 <p>
  <a href="https://github.com/wilkensoncode/commerce">👾<small>ViewCode</small></a> | <a href="https://ezcomm.netlify.app/" target="_blank">👁<small>LiveView</view></a>
+  
 </p>
- <img src="ezgif.com-gif-maker.gif" width="200"/>
+<img src="ezgif.com-gif-maker.gif" width="200"/> 
+<a href="">👾<small>ViewCode</small></a> | <a href="https://wilkensoncode.github.io/portfolio/" target="_blank">👁<small>LiveView</view></a>
+[porfolio immage]()
   
   
 ### Github stats
