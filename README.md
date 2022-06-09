@@ -27,7 +27,7 @@
  
 <p float="left">
  <img src="ezgif.com-gif-maker.gif" width="200"/>&nbsp; &nbsp;&nbsp;
- <img src="portfolio.png" width="200"/> 
+ <img href="https://wilkensoncode.github.io/portfolio/" src="portfolio.png" width="200"/> 
 </p>
 
 
