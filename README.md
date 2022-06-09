@@ -22,7 +22,7 @@
  
  ### Examples of work
   
- <a href="https://github.com/wilkensoncode/commerce">👾<small>ViewCode</small></a> | <a href="https://ezcomm.netlify.app/" target="_blank">👁.      <small>LiveView</view></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/wilkensoncode/commerce">👾<small>ViewCode</small></a> | <a href="https://ezcomm.netlify.app/" target="_blank">👁.      <small>LiveView</view></a> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/wilkensoncode/portfolio">👾<small>ViewCode</small></a> | <a  href="https://wilkensoncode.github.io/portfolio/" target="_blank">👁<small>LiveView</view></a>  
  
 <p float="left">
