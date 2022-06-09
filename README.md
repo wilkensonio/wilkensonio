@@ -5,7 +5,16 @@
  
  <img src='https://github.com/wilkensoncode/wilkensoncode/blob/main/linkedbannrr.png'/>
 
-## Hi there 👋, I'm Wilkenson, 👨🏾‍💻technically inquisitive, contrubuting to the community and talking tech 😁
+## Hi there 👋, I'm Wilkenson, 👨🏾‍💻technically inquisitive, all about community and tech 😁
+
+📚Student ---> always learning
+
+👨🏾‍💻Computer science major (in progress)
+
+👾Eager to learn & technically inquisitive
+
+䷐Lets connect and talk tech
+
 ####   
  
  ### Examples of work
