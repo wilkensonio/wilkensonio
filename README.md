@@ -7,9 +7,12 @@
 
 ## Hi there 👋, I'm Wilkenson, < 👨🏾‍💻 let's connect & build stuffs 😁 />
 
-📚Student ---> always learning
+
+🏅Coding bootcamp graduate
 
 👨🏾‍💻Computer science major (in progress)
+
+📚Student ---> always learning
 
 👾Eager to learn & technically inquisitive
 
