@@ -24,11 +24,13 @@
  
 <p>
  <a href="https://github.com/wilkensoncode/commerce">👾<small>ViewCode</small></a> | <a href="https://ezcomm.netlify.app/" target="_blank">👁<small>LiveView</view></a>
-  
+  <img src="ezgif.com-gif-maker.gif" width="200"/> 
+<a href="https://github.com/wilkensoncode/portfolio/blob/main/Screen%20Shot%202022-06-08%20at%209.47.01%20PM.png">👾<small>ViewCode</small></a> | <a href="https://wilkensoncode.github.io/portfolio/" target="_blank">👁<small>LiveView</view></a>
+
 </p>
-<img src="ezgif.com-gif-maker.gif" width="200"/> 
-<a href="">👾<small>ViewCode</small></a> | <a href="https://wilkensoncode.github.io/portfolio/" target="_blank">👁<small>LiveView</view></a>
-[porfolio immage]()
+
+<img src="Screen%20Shot%202022-06-08%20at%209.47.01%20PM.png" width="200"/> 
+ 
   
   
 ### Github stats
