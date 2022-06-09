@@ -5,7 +5,7 @@
  
  <img src='https://github.com/wilkensoncode/wilkensoncode/blob/main/linkedbannrr.png'/>
 
-## Hi there 👋, I'm Wilkenson, 👨🏾‍💻technically inquisitive, all about community and tech 😁
+## Hi there 👋, I'm Wilkenson, 👨🏾‍💻 let's work together and build stuffs😁
 
 📚Student ---> always learning
 
@@ -13,7 +13,7 @@
 
 👾Eager to learn & technically inquisitive
 
-䷐Lets connect and talk tech
+䷐Let's connect and talk tech
 
 ####   
  
