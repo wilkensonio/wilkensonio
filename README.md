@@ -20,20 +20,16 @@
 ####   
  
  ### Examples of work
-  
- <a href="https://github.com/wilkensoncode/commerce">👾<small>ViewCode</small></a> | <a href="https://ezcomm.netlify.app/" target="_blank">👁.      <small>LiveView</view></a> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://github.com/wilkensoncode/portfolio">👾<small>ViewCode</small></a> | <a  href="https://wilkensoncode.github.io/portfolio/" target="_blank">👁<small>LiveView</view></a>  
+  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/wilkensoncode/commerce">👾<small>ViewRepo</small></a>🗂
+ &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/wilkensoncode/portfolio">👾<small>ViewRepo</small></a>🗂
  
 <p float="left">
  <img src="ezgif.com-gif-maker.gif" width="200"/>&nbsp; &nbsp;&nbsp;
  <img href="https://wilkensoncode.github.io/portfolio/" src="portfolio.png" width="200"/> 
-</p>
-
-
- 
-
-
- 
+</p> 
   
   
 ### Github stats
