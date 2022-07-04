@@ -1,21 +1,9 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F746A1&lines=Software+engineer👨🏾‍💻;)](https://git.io/typing-svg)
- 
- <img src='https://github.com/wilkensoncode/wilkensoncode/blob/main/linkedbannrr.png'/>
-
-### Hi there 👋, I'm Wilkenson, 
-##### < 👨🏾‍💻 let's connect & build stuffs 😁 />
-
-
-🏅Coding bootcamp graduate
-
-👨🏾‍💻Computer science major (in progress)
-
-📚Student ---> always learning
-
-👾Eager to learn & technically inquisitive
-
-䷐Let's connect and talk tech
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F746A1&lines=Software+engineer👨🏾‍💻;)](https://git.io/typing-svg) 
+### Hi there 👋, I'm Wilkenson,
+👨🏾‍💻 Computer science major (in progress)
+📚 Eager to learn & technically inquisitive
+💡 Looking to contribute
 
 ####   
  
