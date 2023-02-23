@@ -1,9 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F746A1&lines=Software+engineer👨🏾‍💻;)](https://git.io/typing-svg) 
 ### Hi there 👋, I'm Wilkenson,
-👨🏾‍💻 Computer science major (in progress)
-📚 Eager to learn & technically inquisitive
-💡 Looking to contribute
+👨🏾‍💻 Bachelor of Science in Computer science
+📚 Always learning & technically inquisitive
+💡 ⛹️‍♂️🧘‍♂️🎧🎮🎳🏎🦯✈️
 
 ####   
  
