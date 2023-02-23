@@ -3,6 +3,7 @@
 ### Hi there 👋, I'm Wilkenson,
 👨🏾‍💻 Bachelor of Science in Computer science
 📚 Always learning & technically inquisitive
+
 💡 ⛹️‍♂️🧘‍♂️🎧🎮🎳🏎🦯✈️
 
 ####   
