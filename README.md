@@ -16,9 +16,9 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> 
 </a>  
  
- <!--![Profile views](https://gpvc.arturio.dev/wilkensoncode)-->
+ <!--![Profile views](https://gpvc.arturio.dev/wilkensoncode)
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wilkensoncode&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilkensoncode&show_icons=true&count_private=true&theme=react) 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wilkensoncode&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wilkensoncode&show_icons=true&count_private=true&theme=react) -->
   
 
 
